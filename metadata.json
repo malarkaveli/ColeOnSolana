@@ -1,0 +1,17 @@
+{
+  "name": "Cole, The Aussie From Florida",
+  "symbol": "COLE",
+  "description": "This is my dog Cole. I brought him up North all the way from down south in Florida, can we show him some love? All proceeds go to Cole.",
+  "image": "https://i.imgur.com/T1MVYgl.jpeg",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "C3K4z9XXc5wHjzwQhr9JduzaXrzZer6ynGW72KvZMm5D",
+        "share": 100
+      }
+    ]
+  }
+}
